@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="icon" href="i01.jfif" image type="image/jfif">
+    </head>
+    <body bgcolor="pink">
+        <hr font color="black">
+        <table border="2" height="100" width="100%" bgcolor="#dfdfdf">
+            <tr>
+                <th>
+                <img src="i02.jfif" height="100" width="50%" align="left">
+                </th>
+                <th>
+                <h1><b><u><center>MAHA KUMBH-2021</center></u></b></h1>  
+                </th>
+                <th>
+                <img src="i03.jfif" height="100" width="50%" align="right">    
+                </th>
+            </tr>
+        </table>
+        <table border="2" length="300" width="40%"align="right">
+            <tr>
+                <th>
+                    <img src="i04.jfif" height="300" width="100%" align="right">
+                </th>
+            </tr>
+        </table>
+        <p><font size="8"><center><b><u>HAR HAR GANGA </u></b></center></font></p>
+        <hr font color="black">
+        <p font size="6"><b><u>In Sanskrit, the liturgical language of Hinduism, Hari means "Lord Vishnu", while dwar means "gateway". So, Haridwar translates to "The Gateway to Lord Vishnu". It earns this name because it is typically the place where pilgrim's start their journey to visit a prominent temple of Lord Vishnu - Badrinath.</u></b></p>
+        <p font size="7"><b>Similarly, Hara could also mean "Lord Shiva".[5] Hence, Hardwar could stand for "Gateway to Lord Shiva". Hardwar is also a typical place to start a pilgrim's journey in order to reach Mount Kailash, Kedarnath, the northernmost Jyotirlinga and one of the sites of the smaller Char Dham pilgrimage circuit - all important places for worship for Hindus.</b></p>
+        <p font size="6"><b>According to legend, it was in Haridwar that Goddess Ganga descended when Lord Shiva released the mighty river from the locks of his hair. The River Ganga, after flowing for 253 kilometres (157 mi) from its source at Gaumukh at the edge of the Gangotri Glacier, enters the Gangetic Plain for the first time at Haridwar, which gave the city its ancient name, Gangadwára.</b></p>
+        <img src="i7.jfif" usemap="#image_map" align="right" height="200" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <map name="image_map">
+          <area alt="google" title="google" href="http;// www.google.com" coords="0,1,249,198" shape="rect">
+        </map>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2409.273068032047!2d78.16855409031383!3d29.95683773729327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39094719eaaaaaab%3A0x22862adf6e307ad8!2sHar%20Ki%20Pauri%20Ghat%2C%20Haridwar!5e0!3m2!1sen!2sin!4v1608732172891!5m2!1sen!2sin" width="20%" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="right"></iframe>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <iframe width="20%" height="200" src="https://www.youtube.com/embed/PrGqVBSDYkc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="right"></iframe>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <h1><b><U>YEARS OF MAHA KUMBH</U></b></h1>
+        <ul>
+            <li font size="3">1998</li>
+            <li font size="3">2012</li>
+            <li font size="3">2025</li>
+            <li font size="3">2037</li>
+            <li font size="3">2049</li>
+            <li font size="3">2061</li>
+        </ul>
+        <div>
+            Date:
+            <input type="Date">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            time:
+            <input type="time">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Email:
+            <input type="Email">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Password:
+            <input type="Password">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <tabel border="3" height="300" width="40%" align="left">
+            <img src="i03.jfif" height="">
+           
+        </tabel>
+    </body>
+</html>
